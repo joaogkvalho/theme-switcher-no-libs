@@ -1,4 +1,4 @@
-
+![theme-switcher-with-no-libs](https://user-images.githubusercontent.com/50122135/181519759-6a21d295-eb29-4946-b9a2-0e81d682344f.png)
 
 > Status: Finished ✔️
 
