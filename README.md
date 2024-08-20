@@ -1,40 +1,46 @@
-![theme-switcher-with-no-libs](https://user-images.githubusercontent.com/50122135/181519759-6a21d295-eb29-4946-b9a2-0e81d682344f.png)
+<h1 align="center"> theme-switcher-with-no-libs </h1>
 
-> Status: Finished ✔️
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### This is a theme switcher application created with just React and ChakraUI
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Some features used on this project
+<br>
 
-  * React Context API
-  * Styles with ChackraUI
-  * Theme schemas with TypeScript
+<p align="center">
+  <img alt="projeto do curso discover" src=".github/preview.png" width="100%">
+</p>
 
-## On this project you can see
+## 🚀 Tecnologias
 
-* A very simple layout created with ChackraUI
-* A button that changes the theme between Dark and Light
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Technologies used
+- ReactJS
+- TypeScript
+- ChackraUI
 
-<table>
-  <tr>
-    <td>React</td>
-    <td>TypeScript</td>
-    <td>ChackraUI</td>
-  </tr>
-  
-  <tr>
-    <td>18.1.0</td>
-    <td>4.6.4</td>
-    <td>2.0.2</td>
-  </tr>
-</table>
+## 🔥 Algumas features neste projeto
 
-## How to run this project
+- React Context API
+- Estilização com ChakraUI
+- Esquemas de temas com TypeScript
 
-1) Clone the repositorie from my Github.
-2) Enter in the project folder on your code editor.
-3) Run the command "yarn" to install all the dependencies used in the project.
-4) Run the command "yarn dev" to run the project on your computer.
-5) Enter in the project URL to see the application.
+## ✨ Neste projeto você pode ver
+
+- Um layout muito simples criado com ChakraUI.
+- Um botão que quando clicado troca entre os temas escuro e claro.
+
+## 💻 Projeto
+
+- Esta é uma aplicação simples de troca de temas criado somente com React e ChakraUI
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
